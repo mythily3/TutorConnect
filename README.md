@@ -1,4 +1,4 @@
-# Tutor Finder App
+# TutorConnect 
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
 
 ### Description
 
-An iOS app that helps students quickly find and connect with local tutors based on subject expertise and school affiliation, using simple search and public school data APIs for relevant results.
+An iOS app that helps students quickly find and connect with local tutors based on subject expertise and school affiliation, using simple search and school data APIs for relevant results.
 
 ### App Evaluation
 - **Category:** Education
