@@ -69,8 +69,7 @@ An iOS app that helps students quickly find and connect with local tutors based 
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="/Users/mythilykalra/Desktop/Rice/Year 2/Summer 25/IOS/Wireframes-1.jpg.jpeg" width=600> 
+<img src="/Users/mythilykalra/Desktop/Rice/Year 2/Summer 25/IOS/TutorConnect/Wireframes-1.jpg.jpeg" width=600> 
 
 ### [BONUS] Digital Wireframes & Mockups
 
