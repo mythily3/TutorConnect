@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "name": "Emily Carter",
+        "profile_image_url": "https://example.com/images/emily_carter.png",
+        "subjects": ["AP Physics 1", "AP Physics C"],
+        "bio": "A passionate physicist from MIT with 2 years of tutoring experience.",
+        "pay_rate": 40.00,
+        "location": "Boston, MA",
+        "university": "MIT",
+        "high school": "Boston High School"
+    },
+    {
+        "id": "2",
+        "name": "Michael Chen",
+        "profile_image_url": "https://example.com/images/michael_chen.png",
+        "subjects": ["Algebra 1", "Algebra 2", "Calculus", "AP Calculus AB", "AP Calculus BC"],
+        "bio": "Software engineer with a knack for making calculus and algebra easy to understand for high school students.",
+        "pay_rate": 35.00,
+        "location": "Austin, TX",
+        "university": "UT Austin",
+        "high school": "Austin High School"
+    },
+    {
+        "id": "3",
+        "name": "Jessica Rodriguez",
+        "profile_image_url": "https://example.com/images/jessica_rodriguez.png",
+        "subjects": ["Chemistry", "AP Chemistry", "Organic Chemistry"],
+        "bio": "Pre-med student at Rice University who loves showing university students the magic of molecular reactions.",
+        "pay_rate": 30.00,
+        "location": "Houston, TX",
+        "university": "Rie Unviersity",
+        "high school": "Travis High School"
+    }
+    
+]
