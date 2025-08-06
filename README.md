@@ -81,14 +81,36 @@ An iOS app that helps students overcome academic challenges by easily connecting
 
 ## Schema 
 
-[This section will be completed in Unit 9]
-
 ### Models
 
-[Add table of models]
+Tutor:
+    let id: Int
+    let name: String
+    let profileImageUrl: String
+    let subjects: [String]
+    let bio: String
+    let payRate: Double
+    let location: String
+    let university: String
+    let highSchool: String
+    let email: String
+    let phone: String
 
 ### Networking
 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Current Progress
+I have worked on setting up the initial table view on the app, created a JSON File with sample data, and displaying the data in each cell. Next Steps: Work on the aesthetic and UI of the home screen and start implementing other features. 
+
+<div>
+    <a href="https://www.loom.com/share/eb38835bd63c4643b6ebb3530bcccf24">
+    </a>
+    <a href="https://www.loom.com/share/eb38835bd63c4643b6ebb3530bcccf24">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/eb38835bd63c4643b6ebb3530bcccf24-4aee81eb4bc6f31f-full-play.gif">
+    </a>
+  </div>
+  https://www.loom.com/share/eb38835bd63c4643b6ebb3530bcccf24?sid=260f41f7-b954-4527-b93b-95398e3377f9
+  
